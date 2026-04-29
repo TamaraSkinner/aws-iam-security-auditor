@@ -44,4 +44,5 @@ pip install -r requirements.txt
 Configure AWS Credentials: Ensure your environment is configured via aws configure.
 Run the Audit:
 ```Bash
-python auditor.py```
+python auditor.py
+```
